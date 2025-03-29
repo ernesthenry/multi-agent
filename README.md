@@ -57,10 +57,7 @@ An AI-powered system that optimizes job applications and interview preparation u
 
 ## 🚀 Getting Started
 
-1. Clone the repository:
-```bash
-cd multi-agent
-```
+
 # Python Environment Configuration with Caching
 
 This repository provides a Python module `utils.py` for managing environment variables with caching, validation, and default configurations. It's designed to simplify handling environment-specific settings in your Python applications.

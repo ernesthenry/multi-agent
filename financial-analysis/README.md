@@ -64,10 +64,6 @@ Here are the 4 agents designed to collaborate in this project:
 
 ## 🚀 Running the Solution
 
-1. Clone the repository:
-   ```bash
-   cd financial-analysis
-   ```
 
 2. Rename `sample.env` to  `.env` file in the project directory:
    ```env

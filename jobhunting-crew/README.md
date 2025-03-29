@@ -28,10 +28,6 @@ Each agent works in collaboration under a **Crew Manager LLM**, ensuring a struc
 
 Before running the code, make sure you have the following set up:
 
-### ** Clone the Repository**
-```bash
-cd jobhunting-crew
-```
 
 ### 🛠 Environment Setup
 
