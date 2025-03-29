@@ -59,7 +59,6 @@ An AI-powered system that optimizes job applications and interview preparation u
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/viktoriasemaan/multi-agent.git
 cd multi-agent
 ```
 # Python Environment Configuration with Caching
